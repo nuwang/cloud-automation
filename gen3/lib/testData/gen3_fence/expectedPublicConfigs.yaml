@@ -1,0 +1,13 @@
+---
+# some comments for pub
+pub: 'some pub config'
+# some comments for pub_level_0
+pub_level_0:
+  # some comments for pub_level_1
+  pub_level_1:
+    # some comments for pub_level_2
+    pub_level_2: 'some pub config'
+    # some comments for pub_list
+    pub_list:
+      - 'test1@example.com'
+      - 'test2@example.com'

@@ -1,0 +1,20 @@
+---
+# some comments for pub
+pub: '_________'
+# some comments for sec
+sec: '_________'
+# some comments for pub_level_0
+pub_level_0:
+  # some comments for pub_level_1
+  pub_level_1:
+    # some comments for pub_level_2
+    pub_level_2: '_________'
+    # some comments for sec_level_2
+    sec_level_2: '_________'
+    # some comments for pub_list
+    pub_list:
+      - _________
+    # some comments for sec_list
+    sec_list:
+      - _________
+  sec_level_1: '_________'
